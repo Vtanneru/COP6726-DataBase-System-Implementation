@@ -1,2 +1,0 @@
-3
-(o_orderpriority = '1-URGENT) AND (o-orderstatus = 'F') AND (o_totalprice > 470000.0)
